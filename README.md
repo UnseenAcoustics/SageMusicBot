@@ -1,3 +1,5 @@
+[![Stars](https://img.shields.io/github/stars/UnseenAcoustics/SageMusicBot.svg)](https://github.com/UnseenAcoustics/SageMusicBot/stargazers) [![Forks](https://img.shields.io/github/forks/UnseenAcoustics/SageMusicBot.svg)](https://github.com/UnseenAcoustics/SageMusicBot/network/members) [![Issues](https://img.shields.io/github/issues/UnseenAcoustics/SageMusicBot.svg)](https://github.com/UnseenAcoustics/SageMusicBot/issues) [![License](https://img.shields.io/github/license/UnseenAcoustics/SageMusicBot.svg)](https://github.com/UnseenAcoustics/SageMusicBot/blob/master/LICENSE)
+
 # SageMusicBot
 This Bot Is A Cool Music Bot That Everyone Can Spacial Can Use In Your Own Discord Server And Many More People Can Use It And If The Bot Is Offline Contact [YT]UnseenAcoutics#7878 To Put The Discord Music Bot Online!!
 
@@ -33,7 +35,7 @@ nowplaying (or np or current)
 Shows information about the song that is currently playing (name, user that added it, current timestamp, and song URL)
 
 play
-Shows the play commands. If the player is paused, it resumes the player.
+Shows the play commands. If the player is paused, it resumes the player. 
 
 play <URL>
 Plays the song or stream at the provided URL. Supported locations include (but are not limited to): YouTube (and playlists), SoundCloud, BandCamp, Vimeo, and Twitch. Local files or URLs of the following formats are also supported: MP3, FLAC, WAV, Matroska/WebM (AAC, Opus or Vorbis codecs), MP4/M4A (AAC codec), OGG streams (Opus, Vorbis and FLAC codecs), AAC streams, Stream playlists (M3U and PLS)
