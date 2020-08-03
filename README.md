@@ -1,5 +1,7 @@
 [![Stars](https://img.shields.io/github/stars/UnseenAcoustics/SageMusicBot.svg)](https://github.com/UnseenAcoustics/SageMusicBot/stargazers) [![Forks](https://img.shields.io/github/forks/UnseenAcoustics/SageMusicBot.svg)](https://github.com/UnseenAcoustics/SageMusicBot/network/members) [![Issues](https://img.shields.io/github/issues/UnseenAcoustics/SageMusicBot.svg)](https://github.com/UnseenAcoustics/SageMusicBot/issues) [![License](https://img.shields.io/github/license/UnseenAcoustics/SageMusicBot.svg)](https://github.com/UnseenAcoustics/SageMusicBot/blob/master/LICENSE)
 
+# Project Not Maintained - Code Owner - jagrosh - Taken from [Music Bot](https://github.com/jagrosh/MusicBot)
+
 # SageMusicBot
 This Bot Is A Cool Music Bot That Everyone Can Spacial Can Use In Your Own Discord Server And Many More People Can Use It And If The Bot Is Offline Contact [YT]UnseenAcoutics#7878 To Put The Discord Music Bot Online!!
 
